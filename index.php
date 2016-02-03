@@ -7,6 +7,4 @@ include('header.php');
 		<p>AHHHHHHHHHH</p>
 	</div>
 
-<?php
-include('footer.php');
-?>
+
