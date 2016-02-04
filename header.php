@@ -52,7 +52,9 @@
                     <div class="panel-body">
                         <ul class="list-group">
                             <li class="list-group-item list-group-item-success"><a href="/">Home</a></li>
-                            <li class="list-group-item list-group-item-info"><a href="gameclubse.net:8123">Dynamic Map</a></li>
+                            <li class="list-group-item list-group-item-info"><a href="gameclubse.net:8123" target="_black">Dynamic Map</a></li>
+                            <li class="list-group-item list-group-item-info"><a href="gallery.php">Gallery</a></li>
+                            <li class="list-group-item list-group-item-info"><a href="staff.php">Meet the Staff</a></li>
                         </ul>
                     </div>
                 </div>
