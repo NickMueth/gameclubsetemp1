@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>SEMOCSCLUB</title>
+    <title>Game Club SE</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
@@ -28,8 +28,6 @@
                         <div class="collapse navbar-collapse" id="navbar-collapse-1">
                             <ul class="nav navbar-nav">
                                 <li><a href="./">Home</a></li>
-                                <li><a href="http://hackathon.semocsclub.net" target="_blank">Hackathon</a></li>
-                                <li><a href="usefulLinks.php">Useful Links</a></li>
                             </ul>
                             <ul class="nav navbar-nav navbar-right">
                             </ul>
@@ -41,7 +39,7 @@
                 </nav>
 
                 <div class="page-header" style="padding-top: 20px">
-                    <h1>Game Club SE Temp Website<small>beep boop oop words</small></h1>
+                    <h1>Game Club SE<small>beep boop oop words</small></h1>
                 </div>
             </div>
         </div>
@@ -54,7 +52,7 @@
                     <div class="panel-body">
                         <ul class="list-group">
                             <li class="list-group-item list-group-item-success"><a href="/">Home</a></li>
-                            <li class="list-group-item list-group-item-info"><a href="gameclubse.tk:8123" target="_blank">Dynamic Map</a></li>
+                            <li class="list-group-item list-group-item-info"><a href="gameclubse.net:8123" target="_blank">Dynamic Map</a></li>
                         </ul>
                     </div>
                 </div>
